@@ -2,3 +2,5 @@
 Repository for gruppe 1337 - IS-105.
 
 Denne repositoryen skal ta for seg arbeidet vi skal jobbe med i faget IS-105. 
+
+Jeg får ikke pushet med branch blomshit - Stefan
